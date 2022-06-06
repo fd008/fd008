@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fuad</h1>
+<img src="https://github.com/fd008/fd008/blob/main/download.png" alt="fd008" />
 <h3 align="center">Lead Software Engineer based out of DC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fd008&label=Profile%20views&color=0e75b6&style=flat" alt="fd008" /> </p>
