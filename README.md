@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fd008&label=Profile%20views&color=0e75b6&style=flat" alt="fd008" /> </p>
 
 
-- 🔭 I’m currently working on [Python and JavaScript based apps](https://github.com/fd008/fd008)
+- 🔭 I’m currently working on [Python, JavaScript, and AWS based apps](https://github.com/fd008/fd008)
 
 - 🌱 I’m currently learning **Rust**
 
