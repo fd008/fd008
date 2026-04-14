@@ -21,6 +21,7 @@
 - ⚡ Fun fact **I have the same birthday as Bruno Mars**
 
 
+Note: I don't use personal account for work, so this account only represent my personal projects
 
 [![Fuad StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3214516)](https://stackoverflow.com/users/3214516/user1)
 
